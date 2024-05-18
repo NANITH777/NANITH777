@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="50%" alt="progr2" src="https://github.com/NANITH777/NANITH777/assets/109669139/5a6dd509-12d7-457d-9dc9-a7383301dda9">
+    <img width="469" alt="progr2" src="https://github.com/NANITH777/NANITH777/assets/109669139/9a5cda1f-70dd-4f28-b676-d3ab301a951a">
     <h1>Hi 👋, I'm Fulchany Arvelin Nanith</h1>
 </div>
 
