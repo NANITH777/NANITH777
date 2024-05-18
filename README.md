@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React, Flutter & Dart**
 
-- 💬 Ask me about **JavaScript, Machine Learning**
-
 - 📫 How to reach me **nanifulchany@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
