@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fulchany Arvelin Nanith</h1>
+<div align="center">
+    <img width="50%" alt="progr2" src="https://github.com/NANITH777/NANITH777/assets/109669139/5a6dd509-12d7-457d-9dc9-a7383301dda9">
+    <h1>Hi 👋, I'm Fulchany Arvelin Nanith</h1>
+</div>
+
 <h3 align="center">A passionate Full Stack developer and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 
