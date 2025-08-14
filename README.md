@@ -6,8 +6,6 @@
 <h3 align="center">A passionate Full Stack developer and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 
-- 🌱 I’m currently learning **React, Flutter & Dart**
-
 - 📫 How to reach me **nanifulchany@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
